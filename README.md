@@ -1,9 +1,8 @@
 
-  <img src="./foto1.png" width="300">
 
-# Hi 👋, I'm Erik Cruz Escalona
+# Hi 👋, I'm Erik Cruz Escalona                                                               <img src="./foto1.png" width="250">
 
-🎓 Estudiante de Desarrollo de Software y apasionado por la programación y ganas de poder evoluciona en la vidad.
+🎓 Estudiante de Desarrollo de Software y apasionado por la programación y ganas de poder evoluciona en la vidad. 
 
 Actualmente me encuentro aprendiendo y desarrollando proyectos en Java, bases de datos y desarrollo de aplicaciones. Siempre busco mejorar mis habilidades y adquirir nuevos conocimientos en el mundo de la tecnología y divertime mientra lo realizo. 🚀
 
