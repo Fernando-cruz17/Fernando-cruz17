@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./img/foto.png" alt="Mi foto" width="300">
+</p>
 # Hi 👋, I'm Erik Cruz Escalona
 
 🎓 Estudiante de Desarrollo de Software y apasionado por la programación.
