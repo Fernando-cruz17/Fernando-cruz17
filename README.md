@@ -3,9 +3,9 @@
 </p>
 # Hi 👋, I'm Erik Cruz Escalona
 
-🎓 Estudiante de Desarrollo de Software y apasionado por la programación.
+🎓 Estudiante de Desarrollo de Software y apasionado por la programación y ganas de poder evoluciona en la vidad.
 
-Actualmente me encuentro aprendiendo y desarrollando proyectos en Java, bases de datos y desarrollo de aplicaciones. Siempre busco mejorar mis habilidades y adquirir nuevos conocimientos en el mundo de la tecnología. 🚀
+Actualmente me encuentro aprendiendo y desarrollando proyectos en Java, bases de datos y desarrollo de aplicaciones. Siempre busco mejorar mis habilidades y adquirir nuevos conocimientos en el mundo de la tecnología y divertime mientra lo realizo. 🚀
 
 ## Sobre mí
 
