@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/foto.jpg" alt="Mi foto" width="300">
+  <img src="./img/foto1.png" width="300">
 </p>
 # Hi 👋, I'm Erik Cruz Escalona
 
